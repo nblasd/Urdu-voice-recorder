@@ -1,0 +1,5 @@
+{
+  "name": "UrduVoice - Roman Urdu Transcriber",
+  "description": "Speak in Urdu or Roman Urdu and get instant Roman Urdu transcription and English translation.",
+  "requestFramePermissions": ["microphone"]
+}
